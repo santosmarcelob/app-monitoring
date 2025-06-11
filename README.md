@@ -52,3 +52,6 @@ Documentar todo o processo, incluindo scripts Terraform e playbooks Ansible.
 
 Conclusão
 Esse projeto não apenas proporciona uma experiência prática com Terraform, Ansible e AWS, mas também resulta em uma solução útil que pode ser expandida no futuro. Além disso, é uma excelente oportunidade para aprender sobre monitoramento de aplicações e boas práticas em DevOps.
+
+## Steps
+TODO - Write the steps that are pending and done.
