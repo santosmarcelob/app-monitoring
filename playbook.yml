@@ -1,0 +1,10 @@
+---
+- name: Criar arquivo com Ansible
+  hosts: localhost
+  become: true
+
+  tasks:
+    - name: Criar um arquivo de teste
+      copy:
+        content: "Arquivo criado pelo Ansible!"
+        dest: /tmp/ansible_teste.txt
